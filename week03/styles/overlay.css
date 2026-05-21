@@ -32,7 +32,7 @@ h1 {
     position: absolute;
     bottom: 25px;
     /* changed from top: 25px */
-    left: 25px;
+    left: 15px;
     /* changed from right: 25px */
     background: radial-gradient(#eee, #323A06);
     border: 1px solid #000;
